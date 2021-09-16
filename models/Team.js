@@ -8,6 +8,7 @@ const teamSchema = new Schema({
     image: {},
     sport: String,
     artUrl: String,
+    rules: String,
 });
 
 const Team = mongoose.model('Team', teamSchema);

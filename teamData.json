@@ -9,7 +9,8 @@
                 "src": "https://i.imgur.com/Ta8FQbG.png"
             },
             "sport": "NBA",
-            "artUrl": "https://i.imgur.com/Ss3oaE0.jpg"
+            "artUrl": "https://i.imgur.com/Ss3oaE0.jpg",
+            "rules": "nba%20lang%3Aen"
         },
         {
             "key": "NFL",
@@ -20,7 +21,8 @@
                 "src": "https://i.imgur.com/aKxcYiY.png"
             },
             "sport": "NFL",
-            "artUrl": "https://i.imgur.com/5QI3Hcc.jpg"
+            "artUrl": "https://i.imgur.com/5QI3Hcc.jpg",
+            "rules": "nfl%20lang%3Aen"
         },
         {
             "key": "Champions League",
@@ -31,7 +33,8 @@
                 "src": "https://i.imgur.com/gVtGOdW.png"
             },
             "sport": "Champions League",
-            "artUrl": "https://i.imgur.com/TH95jEi.jpg"
+            "artUrl": "https://i.imgur.com/TH95jEi.jpg",
+            "rules": "uefa%20champions%20league%20lang%3Aen"
         },
         {
             "key": "PGA",
@@ -42,7 +45,8 @@
                 "src": "https://i.imgur.com/XoCgL1q.png"
             },
             "sport": "PGA",
-            "artUrl": "https://i.imgur.com/kXeDaZI.png"
+            "artUrl": "https://i.imgur.com/kXeDaZI.png",
+            "rules": "pga%20lang%3Aen"
         },
         {
             "key": "MLB",
@@ -53,7 +57,8 @@
                 "src": "https://i.imgur.com/b5HFrJL.png"
             },
             "sport": "MLB",
-            "artUrl": "https://i.imgur.com/d9OY4E8.jpg"
+            "artUrl": "https://i.imgur.com/d9OY4E8.jpg",
+            "rules": "mlb%20lang%3Aen"
         }
     ]
 }
