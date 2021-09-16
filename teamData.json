@@ -1,0 +1,59 @@
+{
+    "teams": [
+        {
+            "key": "NBA",
+            "text": "NBA",
+            "value": "NBA",
+            "image": {
+                "avatar": true,
+                "src": "https://i.imgur.com/Ta8FQbG.png"
+            },
+            "sport": "NBA",
+            "artUrl": "https://i.imgur.com/Ss3oaE0.jpg"
+        },
+        {
+            "key": "NFL",
+            "text": "NFL",
+            "value": "NFL",
+            "image": {
+                "avatar": true,
+                "src": "https://i.imgur.com/aKxcYiY.png"
+            },
+            "sport": "NFL",
+            "artUrl": "https://i.imgur.com/5QI3Hcc.jpg"
+        },
+        {
+            "key": "Champions League",
+            "text": "Champions League",
+            "value": "Champions League",
+            "image": {
+                "avatar": true,
+                "src": "https://i.imgur.com/gVtGOdW.png"
+            },
+            "sport": "Champions League",
+            "artUrl": "https://i.imgur.com/TH95jEi.jpg"
+        },
+        {
+            "key": "PGA",
+            "text": "PGA",
+            "value": "PGA",
+            "image": {
+                "avatar": true,
+                "src": "https://i.imgur.com/XoCgL1q.png"
+            },
+            "sport": "PGA",
+            "artUrl": "https://i.imgur.com/kXeDaZI.png"
+        },
+        {
+            "key": "MLB",
+            "text": "MLB",
+            "value": "MLB",
+            "image": {
+                "avatar": true,
+                "src": "https://i.imgur.com/b5HFrJL.png"
+            },
+            "sport": "MLB",
+            "artUrl": "https://i.imgur.com/d9OY4E8.jpg"
+        }
+    ]
+}
